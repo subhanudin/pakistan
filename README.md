@@ -1,1 +1,1 @@
-# pakistan
+# pakistan pkg install git
